@@ -16,7 +16,9 @@ An example of an opinion question is
 There's no right or wrong answer to this because this is an opinion. However, people who answer more factual questions correctly are more likely to answer "yes" to this question so our AI will return "yes" when asked this question. I presented this project at the [Recurse Center in September 2016](I presented this project at the Recurse Center in September 2016.).
 
 # self-driving-car-sim
-I developed an ethical framework using R based on a dataset of millions of data points. The dataset consisted of both factual and opinion questions. The correctness of each opinion answer was calculated based on how well respondents did on the factual questions. The ethical framework tells us how much each life is worth based on the following factors:
+I developed an ethical framework using R based on a dataset of millions of data points. I have decided to keep this dataset closed source because it contains personally identifiable information, but all of the code is open source.
+
+The dataset consisted of both factual and opinion questions. The correctness of each opinion answer was calculated based on how well respondents did on the factual questions. The ethical framework tells us how much each life is worth based on the following factors:
 * Species
 * Physical position in the situation - whether the subject is a passenger or a pedestrian
 * Age
