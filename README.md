@@ -13,7 +13,7 @@ The correct factual answer would be "Earth's tilt at the axis of rotation."
 An example of an opinion question is
 > Should people of different races be allowed to marry?
 
-There's no right or wrong answer to this because this is an opinion. However, people who answer more factual questions correctly are more likely to answer "yes" to this question so our AI will return "yes" when asked this question. I presented this project at the [Recurse Center in September 2016](I presented this project at the Recurse Center in September 2016.).
+There's no right or wrong answer to this because this is an opinion. However, people who answer more factual questions correctly are more likely to answer "yes" to this question so our AI will return "yes" when asked this question. I presented this project at the [Recurse Center in August 2016](https://presentations.recurse.com/?date=1472101200000).
 
 # self-driving-car-sim
 I developed an ethical framework using R based on a dataset of millions of data points. I have decided to keep this dataset closed source because it contains personally identifiable information, but all of the code is open source.
